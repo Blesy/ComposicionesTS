@@ -1,0 +1,194 @@
+{
+    "crono": 
+    {
+        "contador": 0,
+        "oro": 6,
+        "plata": 4,
+        "bronce": 2,
+        "espatula": false
+    },
+    "cibernetico": 
+    {
+        "contador": 0,
+        "oro": 6,
+        "plata": 3,
+        "bronce": 0,
+        "espatula": false
+    },
+    "guardiana": 
+    {
+        "contador": 0,
+        "oro": 9,
+        "plata": 6,
+        "bronce": 3,
+        "espatula": true
+    },
+    "estrella": 
+    {
+        "contador": 0,
+        "oro": 6,
+        "plata": 4,
+        "bronce": 2,
+        "espatula": true
+    },
+    "celestial": 
+    {
+        "contador": 0,
+        "oro": 6,
+        "plata": 4,
+        "bronce": 2,
+        "espatula": true
+    },
+    "rebelde": 
+    {
+        "contador": 0,
+        "oro": 9,
+        "plata": 6,
+        "bronce": 3,
+        "espatula": true
+    },
+    "mecha": 
+    {
+        "contador": 0,
+        "oro": 3,
+        "plata": 0,
+        "bronce": 0,
+        "espatula": false
+    },
+    "pirata": 
+    {
+        "contador": 0,
+        "oro": 4,
+        "plata": 2,
+        "bronce": 0,
+        "espatula": false
+    },
+    "astro": 
+    {
+        "contador": 0,
+        "oro": 3,
+        "plata": 0,
+        "bronce": 0,
+        "espatula": false
+    },
+    "guerra": 
+    {
+        "contador": 0,
+        "oro": 6,
+        "plata": 4,
+        "bronce": 2,
+        "espatula": true
+    },
+    "pirotecnico": 
+    {
+        "contador": 0,
+        "oro": 2,
+        "plata": 0,
+        "bronce": 0,
+        "espatula": false
+    },
+    "espadachin": 
+    {
+        "contador": 0,
+        "oro": 9,
+        "plata": 6,
+        "bronce": 3,
+        "espatula": true
+    },
+    "artillero": 
+    {
+        "contador": 0,
+        "oro": 4,
+        "plata": 2,
+        "bronce": 0,
+        "espatula": false
+    },
+    "luchador": 
+    {
+        "contador": 0,
+        "oro": 4,
+        "plata": 2,
+        "bronce": 0,
+        "espatula": false
+    },
+    "infiltrado": 
+    {
+        "contador": 0,
+        "oro": 6,
+        "plata": 4,
+        "bronce": 2,
+        "espatula": true
+    },
+    "segador": 
+    {
+        "contador": 0,
+        "oro": 2,
+        "plata": 0,
+        "bronce": 0,
+        "espatula": false
+    },
+    "mercenario": 
+    {
+        "contador": 0,
+        "oro": 1,
+        "plata": 0,
+        "bronce": 0,
+        "espatula": false
+    },
+    "mistico": 
+    {
+        "contador": 0,
+        "oro": 4,
+        "plata": 2,
+        "bronce": 0,
+        "espatula": false
+    },
+    "protector": 
+    {
+        "contador": 0,
+        "oro": 6,
+        "plata": 4,
+        "bronce": 2,
+        "espatula": true
+    },
+    "vanguardia": 
+    {
+        "contador": 0,
+        "oro": 6,
+        "plata": 4,
+        "bronce": 2,
+        "espatula": false
+    },
+    "tirador": 
+    {
+        "contador": 0,
+        "oro": 4,
+        "plata": 2,
+        "bronce": 0,
+        "espatula": false
+    },
+    "destructor": 
+    {
+        "contador": 0,
+        "oro": 1,
+        "plata": 0,
+        "bronce": 0,
+        "espatula": false
+    },
+    "hechicero": 
+    {
+        "contador": 0,
+        "oro": 6,
+        "plata": 4,
+        "bronce": 2,
+        "espatula": false
+    },
+    "ejemplar": 
+    {
+        "contador": 0,
+        "oro": 1,
+        "plata": 0,
+        "bronce": 0,
+        "espatula": false
+    }
+}

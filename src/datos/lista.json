@@ -1,0 +1,344 @@
+[
+    {
+        "Nombre": "Caitlyn",
+        "Rasgo1": "crono",
+        "Rasgo2": "tirador",
+        "Rasgo3": "cero"
+    },
+    {
+        "Nombre": "Fiora",
+        "Rasgo1": "cibernetico",
+        "Rasgo2": "espadachin",
+        "Rasgo3": "cero"
+    },
+    {
+        "Nombre": "Graves",
+        "Rasgo1": "pirata",
+        "Rasgo2": "artillero",
+        "Rasgo3": "cero"
+    },
+    {
+        "Nombre": "Illaoi",
+        "Rasgo1": "guerra",
+        "Rasgo2": "luchador",
+        "Rasgo3": "cero"
+    },
+    {
+        "Nombre": "Jarvan",
+        "Rasgo1": "estrella",
+        "Rasgo2": "protector",
+        "Rasgo3": "cero"
+    },
+    {
+        "Nombre": "Leona",
+        "Rasgo1": "cibernetico",
+        "Rasgo2": "vanguardia",
+        "Rasgo3": "cero"
+    },
+    {
+        "Nombre": "Malphite",
+        "Rasgo1": "rebelde",
+        "Rasgo2": "luchador",
+        "Rasgo3": "cero"
+    },
+    {
+        "Nombre": "Nocture",
+        "Rasgo1": "guerra",
+        "Rasgo2": "infiltrado",
+        "Rasgo3": "cero"
+    },
+    {
+        "Nombre": "Poppy",
+        "Rasgo1": "guardiana",
+        "Rasgo2": "vanguardia",
+        "Rasgo3": "cero"
+    },
+    {
+        "Nombre": "Twisted",
+        "Rasgo1": "crono",
+        "Rasgo2": "hechicero",
+        "Rasgo3": "cero"
+    },
+    {
+        "Nombre": "Xayah",
+        "Rasgo1": "celestial",
+        "Rasgo2": "espadachin",
+        "Rasgo3": "cero"
+    },
+    {
+        "Nombre": "Ziggs",
+        "Rasgo1": "rebelde",
+        "Rasgo2": "pirotecnico",
+        "Rasgo3": "cero"
+    },
+    {
+        "Nombre": "zoe",
+        "Rasgo1": "guardiana",
+        "Rasgo2": "hechicero",
+        "Rasgo3": "cero"
+    },
+    {
+        "Nombre": "Ahri",
+        "Rasgo1": "guardiana",
+        "Rasgo2": "hechicero",
+        "Rasgo3": "cero"
+    },
+    {
+        "Nombre": "Annie",
+        "Rasgo1": "mecha",
+        "Rasgo2": "hechicero",
+        "Rasgo3": "cero"
+    },
+    {
+        "Nombre": "Blitz",
+        "Rasgo1": "crono",
+        "Rasgo2": "luchador",
+        "Rasgo3": "cero"
+    },
+    {
+        "Nombre": "Darius",
+        "Rasgo1": "pirata",
+        "Rasgo2": "segador",
+        "Rasgo3": "cero"
+    },
+    {
+        "Nombre": "Kog'Maw",
+        "Rasgo1": "guerra",
+        "Rasgo2": "artillero",
+        "Rasgo3": "cero"
+    },
+    {
+        "Nombre": "Lucian",
+        "Rasgo1": "cibernetico",
+        "Rasgo2": "artillero",
+        "Rasgo3": "cero"
+    },
+    {
+        "Nombre": "Mordekaiser",
+        "Rasgo1": "estrella",
+        "Rasgo2": "vanguardia",
+        "Rasgo3": "cero"
+    },
+    {
+        "Nombre": "Nautilus",
+        "Rasgo1": "astro",
+        "Rasgo2": "vanguardia",
+        "Rasgo3": "cero"
+    },
+    {
+        "Nombre": "Rakan",
+        "Rasgo1": "celestial",
+        "Rasgo2": "protector",
+        "Rasgo3": "cero"
+    },
+    {
+        "Nombre": "Shen",
+        "Rasgo1": "crono",
+        "Rasgo2": "espadachin",
+        "Rasgo3": "cero"
+    },
+    {
+        "Nombre": "Xin Zhao",
+        "Rasgo1": "celestial",
+        "Rasgo2": "protector",
+        "Rasgo3": "cero"
+    },
+    {
+        "Nombre": "Yasuo",
+        "Rasgo1": "rebelde",
+        "Rasgo2": "espadachin",
+        "Rasgo3": "cero"
+    },
+    {
+        "Nombre": "Zed",
+        "Rasgo1": "rebelde",
+        "Rasgo2": "infiltrado",
+        "Rasgo3": "cero"
+    },
+    {
+        "Nombre": "Ashe",
+        "Rasgo1": "celestial",
+        "Rasgo2": "tirador",
+        "Rasgo3": "cero"
+    },
+    {
+        "Nombre": "Bardo",
+        "Rasgo1": "astro",
+        "Rasgo2": "mistico",
+        "Rasgo3": "cero"
+    },
+    {
+        "Nombre": "Cassiopeia",
+        "Rasgo1": "guerra",
+        "Rasgo2": "mistico",
+        "Rasgo3": "cero"
+    },
+    {
+        "Nombre": "Ezreal",
+        "Rasgo1": "crono",
+        "Rasgo2": "artillero",
+        "Rasgo3": "cero"
+    },
+    {
+        "Nombre": "Jayce",
+        "Rasgo1": "pirata",
+        "Rasgo2": "vanguardia",
+        "Rasgo3": "cero"
+    },
+    {
+        "Nombre": "Karma",
+        "Rasgo1": "estrella",
+        "Rasgo2": "mistico",
+        "Rasgo3": "cero"
+    },
+    {
+        "Nombre": "Master Yi",
+        "Rasgo1": "rebelde",
+        "Rasgo2": "espadachin",
+        "Rasgo3": "cero"
+    },
+    {
+        "Nombre": "Neeko",
+        "Rasgo1": "guardiana",
+        "Rasgo2": "protector",
+        "Rasgo3": "cero"
+    },
+    {
+        "Nombre": "Rumble",
+        "Rasgo1": "mecha",
+        "Rasgo2": "pirotecnico",
+        "Rasgo3": "cero"
+    },
+    {
+        "Nombre": "Shaco",
+        "Rasgo1": "estrella",
+        "Rasgo2": "infiltrado",
+        "Rasgo3": "cero"
+    },
+    {
+        "Nombre": "Syndra",
+        "Rasgo1": "guardiana",
+        "Rasgo2": "hechicero",
+        "Rasgo3": "cero"
+    },
+    {
+        "Nombre": "Vayne",
+        "Rasgo1": "cibernetico",
+        "Rasgo2": "tirador",
+        "Rasgo3": "cero"
+    },
+    {
+        "Nombre": "Vi",
+        "Rasgo1": "cibernetico",
+        "Rasgo2": "luchador",
+        "Rasgo3": "cero"
+    },
+    {
+        "Nombre": "Fizz",
+        "Rasgo1": "mecha",
+        "Rasgo2": "infiltrado",
+        "Rasgo3": "cero"
+    },
+    {
+        "Nombre": "Gnar",
+        "Rasgo1": "astro",
+        "Rasgo2": "luchador",
+        "Rasgo3": "cero"
+    },
+    {
+        "Nombre": "Irelia",
+        "Rasgo1": "cibernetico",
+        "Rasgo2": "segador",
+        "Rasgo3": "espadachin"
+    },
+    {
+        "Nombre": "Jhin",
+        "Rasgo1": "estrella",
+        "Rasgo2": "tirador",
+        "Rasgo3": "cero"
+    },
+    {
+        "Nombre": "Jinx",
+        "Rasgo1": "rebelde",
+        "Rasgo2": "artillero",
+        "Rasgo3": "cero"
+    },
+    {
+        "Nombre": "Riven",
+        "Rasgo1": "crono",
+        "Rasgo2": "espadachin",
+        "Rasgo3": "cero"
+    },
+    {
+        "Nombre": "Soraka",
+        "Rasgo1": "guardiana",
+        "Rasgo2": "mistico",
+        "Rasgo3": "cero"
+    },
+    {
+        "Nombre": "Teemo",
+        "Rasgo1": "astro",
+        "Rasgo2": "tirador",
+        "Rasgo3": "cero"
+    },
+    {
+        "Nombre": "Viktor",
+        "Rasgo1": "guerra",
+        "Rasgo2": "hechicero",
+        "Rasgo3": "cero"
+    },
+    {
+        "Nombre": "Wukong",
+        "Rasgo1": "crono",
+        "Rasgo2": "vanguardia",
+        "Rasgo3": "cero"
+    },
+    {
+        "Nombre": "Aurelion Sol",
+        "Rasgo1": "rebelde",
+        "Rasgo2": "destructor",
+        "Rasgo3": "cero"
+    },
+    {
+        "Nombre": "Ekko",
+        "Rasgo1": "cibernetico",
+        "Rasgo2": "infiltrado",
+        "Rasgo3": "cero"
+    },
+    {
+        "Nombre": "Gangplank",
+        "Rasgo1": "pirata",
+        "Rasgo2": "pirotecnico",
+        "Rasgo3": "mercenario"
+    },
+    {
+        "Nombre": "Janna",
+        "Rasgo1": "guardiana",
+        "Rasgo2": "ejemplar",
+        "Rasgo3": "cero"
+    },
+    {
+        "Nombre": "Lulu",
+        "Rasgo1": "celestial",
+        "Rasgo2": "mistico",
+        "Rasgo3": "cero"
+    },
+    {
+        "Nombre": "Thresh",
+        "Rasgo1": "crono",
+        "Rasgo2": "segador",
+        "Rasgo3": "cero"
+    },
+    {
+        "Nombre": "Urgot",
+        "Rasgo1": "guerra",
+        "Rasgo2": "protector",
+        "Rasgo3": "cero"
+    },
+    {
+        "Nombre": "Xerath",
+        "Rasgo1": "estrella",
+        "Rasgo2": "hechicero",
+        "Rasgo3": "cero"
+    }
+]
