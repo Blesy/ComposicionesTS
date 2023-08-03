@@ -1,98 +1,114 @@
 [
     {
-        "Nombre": "crono",
+        "Nombre": "Darkin",
         "Contador": 0
     },
-    {
-        "Nombre": "cibernetico",
+    {        
+        "Nombre": "Demacia",
         "Contador": 0
     },
-    {
-        "Nombre": "guardiana",
+    {        
+        "Nombre": "Empress",
         "Contador": 0
     },
-    {
-        "Nombre": "estrella",
+    {        
+        "Nombre": "Freljord",
         "Contador": 0
     },
-    {
-        "Nombre": "celestial",
+    {        
+        "Nombre": "Ionia",
         "Contador": 0
     },
-    {
-        "Nombre": "rebelde",
+    {        
+        "Nombre": "Noxus",
         "Contador": 0
     },
-    {
-        "Nombre": "mecha",
+    {        
+        "Nombre": "Piltover",
         "Contador": 0
     },
-    {
-        "Nombre": "pirata",
+    {        
+        "Nombre": "Shadow Isles",
         "Contador": 0
     },
-    {
-        "Nombre": "astro",
+    {        
+        "Nombre": "Shurima",
         "Contador": 0
     },
-    {
-        "Nombre": "guerra",
+    {        
+        "Nombre": "Targon",
         "Contador": 0
     },
-    {
-        "Nombre": "pirotecnico",
+    {        
+        "Nombre": "Void",
         "Contador": 0
     },
-    {
-        "Nombre": "espadachin",
+    {        
+        "Nombre": "Wanderer",
         "Contador": 0
     },
-    {
-        "Nombre": "artillero",
+    {        
+        "Nombre": "Yordle",
         "Contador": 0
     },
-    {
-        "Nombre": "luchador",
+    {        
+        "Nombre": "Zaun",
         "Contador": 0
     },
-    {
-        "Nombre": "infiltrado",
+    {        
+        "Nombre": "Bastion",
         "Contador": 0
     },
-    {
-        "Nombre": "segador",
+    {        
+        "Nombre": "Bruiser",
         "Contador": 0
     },
-    {
-        "Nombre": "mercenario",
+    {        
+        "Nombre": "Challenger",
         "Contador": 0
     },
-    {
-        "Nombre": "mistico",
+    {        
+        "Nombre": "Deadeye",
         "Contador": 0
     },
-    {
-        "Nombre": "protector",
+    {        
+        "Nombre": "Gunner",
         "Contador": 0
     },
-    {
-        "Nombre": "vanguardia",
+    {        
+        "Nombre": "Invoker",
         "Contador": 0
     },
-    {
-        "Nombre": "tirador",
+    {        
+        "Nombre": "Juggernaut",
         "Contador": 0
     },
-    {
-        "Nombre": "destructor",
+    {        
+        "Nombre": "Multicaster",
         "Contador": 0
     },
-    {
-        "Nombre": "hechiceros",
+    {        
+        "Nombre": "Redeemer",
         "Contador": 0
     },
-    {
-        "Nombre": "ejemplar",
+    {        
+        "Nombre": "Rogue",
+        "Contador": 0
+    },
+    {        
+        "Nombre": "Slayer",
+        "Contador": 0
+    },
+    {        
+        "Nombre": "Sorcerer",
+        "Contador": 0
+    },
+    {        
+        "Nombre": "Strategist",
+        "Contador": 0
+    },
+    {        
+        "Nombre": "Technogenius",
         "Contador": 0
     }
 ]
