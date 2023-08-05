@@ -10,7 +10,7 @@ var oro: number = 0, plata: number = 0, bronce: number = 0, sumaRasgos: number =
 var obj = {
     table: []
 };
-for (let i = 0; i < largo - 9; i++) 
+for (let i = 0; i < TIER_LIST.length; i++) 
 {
     for (let j = i+1; j < largo - 8; j++) 
     {
@@ -32,7 +32,7 @@ for (let i = 0; i < largo - 9; i++)
                                         limpiar();
                                         let composicion: Heroes[] = componer(i, j, k, l, m, n, o, p, q, r);
                                         sumar(composicion);
-                                        if (sumaRasgos > 21){
+                                        if (sumaRasgos > 24) {
                                             impresion(composicion);
                                         }
                                     }

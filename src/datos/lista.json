@@ -1,356 +1,474 @@
 [
     {
-        "Nombre": "Cassiopeia",
-        "Rasgo1": "Noxus",
-        "Rasgo2": "Shurima",
-        "Rasgo3": "Invoker"
-    },
-    {
-        "Nombre": "Chogath",
-        "Rasgo1": "Void",
-        "Rasgo2": "Bruiser",
-        "Rasgo3": "cero"
-    },
-    {
-        "Nombre": "Irelia",
-        "Rasgo1": "Ionia",
-        "Rasgo2": "Challenger",
-        "Rasgo3": "cero"
-    },
-    {
-        "Nombre": "Jhin",
-        "Rasgo1": "Ionia",
-        "Rasgo2": "Deadeye",
-        "Rasgo3": "cero"
-    },
-    {
-        "Nombre": "Kayle",
-        "Rasgo1": "Demacia",
-        "Rasgo2": "Slayer",
-        "Rasgo3": "cero"
-    },
-    {
-        "Nombre": "Malzahar",
-        "Rasgo1": "Void",
-        "Rasgo2": "Sorcerer",
-        "Rasgo3": "cero"
-    },
-    {
-        "Nombre": "Maokai",
+        "Nombre": "Senna",
         "Rasgo1": "Shadow Isles",
-        "Rasgo2": "Bastion",
-        "Rasgo3": "cero"
-    },
-    {
-        "Nombre": "Orianna",
-        "Rasgo1": "Piltover",
-        "Rasgo2": "Sorcerer",
-        "Rasgo3": "cero"
-    },
-    {
-        "Nombre": "Poppy",
-        "Rasgo1": "Yordle",
-        "Rasgo2": "Demacia",
-        "Rasgo3": "Bastion"
-    },
-    {
-        "Nombre": "Renekton",
-        "Rasgo1": "Shurima",
-        "Rasgo2": "Bruiser",
-        "Rasgo3": "cero"
-    },
-    {
-        "Nombre": "Samira",
-        "Rasgo1": "Noxus",
-        "Rasgo2": "Challenger",
-        "Rasgo3": "cero"
-    },
-    {
-        "Nombre": "Tristana",
-        "Rasgo1": "Yordle",
         "Rasgo2": "Gunner",
-        "Rasgo3": "cero"
-    },
-    {
-        "Nombre": "Viego",
-        "Rasgo1": "Shadow Isles",
-        "Rasgo2": "Rogue",
-        "Rasgo3": "cero"
-    },
-    {
-        "Nombre": "Ashe",
-        "Rasgo1": "Freljord",
-        "Rasgo2": "Deadeye",
-        "Rasgo3": "cero"
-    },
-    {
-        "Nombre": "Galio",
-        "Rasgo1": "Demacia",
-        "Rasgo2": "Invoker",
-        "Rasgo3": "cero"
-    },
-    {
-        "Nombre": "Jinx",
-        "Rasgo1": "Zaun",
-        "Rasgo2": "Gunner",
-        "Rasgo3": "cero"
-    },
-    {
-        "Nombre": "Kassadin",
-        "Rasgo1": "Void",
-        "Rasgo2": "Bastion",
-        "Rasgo3": "cero"
-    },
-    {
-        "Nombre": "Kled",
-        "Rasgo1": "Noxus",
-        "Rasgo2": "Yordle",
-        "Rasgo3": "Slayer"
-    },
-    {
-        "Nombre": "Sett",
-        "Rasgo1": "Ionia",
-        "Rasgo2": "Juggernaut",
-        "Rasgo3": "cero"
-    },
-    {
-        "Nombre": "Soraka",
-        "Rasgo1": "Targon",
-        "Rasgo2": "Invoker",
-        "Rasgo3": "cero"
-    },
-    {
-        "Nombre": "Swain",
-        "Rasgo1": "Noxus",
-        "Rasgo2": "Strategist",
-        "Rasgo3": "Sorcerer"
-    },
-    {
-        "Nombre": "Taliyah",
-        "Rasgo1": "Shurima",
-        "Rasgo2": "Multicaster",
-        "Rasgo3": "cero"
-    },
-    {
-        "Nombre": "Teemo",
-        "Rasgo1": "Yordle",
-        "Rasgo2": "Strategist",
-        "Rasgo3": "Multicaster"
-    },
-    {
-        "Nombre": "Vi",
-        "Rasgo1": "Piltover",
-        "Rasgo2": "Bruiser",
-        "Rasgo3": "cero"
-    },
-    {
-        "Nombre": "Warwick",
-        "Rasgo1": "Zaun",
-        "Rasgo2": "Juggernaut",
-        "Rasgo3": "Challenger"
-    },
-    {
-        "Nombre": "Zed",
-        "Rasgo1": "Ionia",
-        "Rasgo2": "Rogue",
-        "Rasgo3": "Slayer"
-    },
-    {
-        "Nombre": "Akshan",
-        "Rasgo1": "Shurima",
-        "Rasgo2": "Deadeye",
-        "Rasgo3": "cero"
-    },
-    {
-        "Nombre": "Darius",
-        "Rasgo1": "Noxus",
-        "Rasgo2": "Juggernaut",
-        "Rasgo3": "cero"
-    },
-    {
-        "Nombre": "Ekko",
-        "Rasgo1": "Zaun",
-        "Rasgo2": "Piltover",
-        "Rasgo3": "Rogue"
-    },
-    {
-        "Nombre": "Garen",
-        "Rasgo1": "Demacia",
-        "Rasgo2": "Juggernaut",
-        "Rasgo3": "cero"
-    },
-    {
-        "Nombre": "Jayce",
-        "Rasgo1": "Piltover",
-        "Rasgo2": "Gunner",
-        "Rasgo3": "cero"
-    },
-    {
-        "Nombre": "Kalista",
-        "Rasgo1": "Shadow Isles",
-        "Rasgo2": "Challenger",
-        "Rasgo3": "cero"
-    },
-    {
-        "Nombre": "Karma",
-        "Rasgo1": "Ionia",
-        "Rasgo2": "Invoker",
-        "Rasgo3": "cero"
-    },
-    {
-        "Nombre": "Katarina",
-        "Rasgo1": "Noxus",
-        "Rasgo2": "Rogue",
-        "Rasgo3": "cero"
-    },
-    {
-        "Nombre": "Lissandra",
-        "Rasgo1": "Freljord",
-        "Rasgo2": "Invoker",
-        "Rasgo3": "cero"
-    },
-    {
-        "Nombre": "RekSai",
-        "Rasgo1": "Void",
-        "Rasgo2": "Bruiser",
-        "Rasgo3": "cero"
-    },
-    {
-        "Nombre": "Sona",
-        "Rasgo1": "Demacia",
-        "Rasgo2": "Multicaster",
-        "Rasgo3": "cero"
-    },
-    {
-        "Nombre": "Taric",
-        "Rasgo1": "Targon",
-        "Rasgo2": "Bastion",
-        "Rasgo3": "Sorcerer"
-    },
-    {
-        "Nombre": "Velkoz",
-        "Rasgo1": "Void",
-        "Rasgo2": "Multicaster",
-        "Rasgo3": "Sorcerer"
-    },
-    {
-        "Nombre": "Aphelios",
-        "Rasgo1": "Targon",
-        "Rasgo2": "Deadeye",
-        "Rasgo3": "cero"
-    },
-    {
-        "Nombre": "Azir",
-        "Rasgo1": "Shurima",
-        "Rasgo2": "Strategist",
-        "Rasgo3": "cero"
-    },
-    {
-        "Nombre": "Gwen",
-        "Rasgo1": "Shadow Isles",
-        "Rasgo2": "Slayer",
-        "Rasgo3": "cero"
-    },
-    {
-        "Nombre": "Jarvan",
-        "Rasgo1": "Demacia",
-        "Rasgo2": "Strategist",
-        "Rasgo3": "cero"
-    },
-    {
-        "Nombre": "Kaisa",
-        "Rasgo1": "Void",
-        "Rasgo2": "Challenger",
-        "Rasgo3": "cero"
-    },
-    {
-        "Nombre": "Lux",
-        "Rasgo1": "Demacia",
-        "Rasgo2": "Sorcerer",
-        "Rasgo3": "cero"
-    },
-    {
-        "Nombre": "Nasus",
-        "Rasgo1": "Shurima",
-        "Rasgo2": "Juggernaut",
-        "Rasgo3": "cero"
-    },
-    {
-        "Nombre": "Sejuani",
-        "Rasgo1": "Freljord",
-        "Rasgo2": "Bruiser",
-        "Rasgo3": "cero"
+        "Rasgo3": "Redeemer",
+        "Costo": 5,
+        "Peso": 4
     },
     {
         "Nombre": "Shen",
         "Rasgo1": "Ionia",
         "Rasgo2": "Bastion",
-        "Rasgo3": "Invoker"
+        "Rasgo3": "Invoker",
+        "Costo": 4,
+        "Peso": 5
     },
     {
-        "Nombre": "Urgot",
-        "Rasgo1": "Zaun",
-        "Rasgo2": "Deadeye",
-        "Rasgo3": "cero"
-    },
-    {
-        "Nombre": "Yasuo",
-        "Rasgo1": "Ionia",
-        "Rasgo2": "Challenger",
-        "Rasgo3": "cero"
-    },
-    {
-        "Nombre": "Zeri",
-        "Rasgo1": "Zaun",
-        "Rasgo2": "Gunner",
-        "Rasgo3": "cero"
-    },
-    {
-        "Nombre": "Aatrox",
-        "Rasgo1": "Darkin",
-        "Rasgo2": "Juggernaut",
-        "Rasgo3": "Slayer"
-    },
-    {
-        "Nombre": "Ahri",
-        "Rasgo1": "Ionia",
-        "Rasgo2": "Sorcerer",
-        "Rasgo3": "cero"
-    },
-    {
-        "Nombre": "Belveth",
-        "Rasgo1": "Void",
-        "Rasgo2": "Empress",
-        "Rasgo3": "cero"
-    },
-    {
-        "Nombre": "Heimerdinger",
-        "Rasgo1": "Piltover",
-        "Rasgo2": "Yordle",
-        "Rasgo3": "Technogenius"
-    },
-    {
-        "Nombre": "Ksante",
-        "Rasgo1": "Shurima",
+        "Nombre": "Taric",
+        "Rasgo1": "Targon",
         "Rasgo2": "Bastion",
-        "Rasgo3": "cero"
+        "Rasgo3": "Sorcerer",
+        "Costo": 3,
+        "Peso": 4
     },
     {
         "Nombre": "Ryze",
         "Rasgo1": "Wanderer",
         "Rasgo2": "Invoker",
-        "Rasgo3": "cero"
+        "Rasgo3": "cero",
+        "Costo": 5,
+        "Peso": 4
     },
     {
-        "Nombre": "Senna",
-        "Rasgo1": "Shadow Isles",
+        "Nombre": "Aatrox",
+        "Rasgo1": "Darkin",
+        "Rasgo2": "Juggernaut",
+        "Rasgo3": "Slayer",
+        "Costo": 5,
+        "Peso": 4
+    },
+    {
+        "Nombre": "Heimerdinger",
+        "Rasgo1": "Piltover",
+        "Rasgo2": "Yordle",
+        "Rasgo3": "Technogenius",
+        "Costo": 5,
+        "Peso": 5
+    },
+    {
+        "Nombre": "Ksante",
+        "Rasgo1": "Shurima",
+        "Rasgo2": "Bastion",
+        "Rasgo3": "cero",
+        "Costo": 5,
+        "Peso": 5
+    },
+    {
+        "Nombre": "Sejuani",
+        "Rasgo1": "Freljord",
+        "Rasgo2": "Bruiser",
+        "Rasgo3": "cero",
+        "Costo": 4,
+        "Peso": 5
+    },
+    {
+        "Nombre": "Zeri",
+        "Rasgo1": "Zaun",
         "Rasgo2": "Gunner",
-        "Rasgo3": "Redeemer"
+        "Rasgo3": "cero",
+        "Costo": 4,
+        "Peso": 5
+    },
+    {
+        "Nombre": "Cassiopeia",
+        "Rasgo1": "Noxus",
+        "Rasgo2": "Shurima",
+        "Rasgo3": "Invoker",
+        "Costo": 1,
+        "Peso": 2
+    },
+    {
+        "Nombre": "Chogath",
+        "Rasgo1": "Void",
+        "Rasgo2": "Bruiser",
+        "Rasgo3": "cero",
+        "Costo": 1,
+        "Peso": 3
+    },
+    {
+        "Nombre": "Irelia",
+        "Rasgo1": "Ionia",
+        "Rasgo2": "Challenger",
+        "Rasgo3": "cero",
+        "Costo": 1,
+        "Peso": 2
+    },
+    {
+        "Nombre": "Jhin",
+        "Rasgo1": "Ionia",
+        "Rasgo2": "Deadeye",
+        "Rasgo3": "cero",
+        "Costo": 1,
+        "Peso": 2
+    },
+    {
+        "Nombre": "Kayle",
+        "Rasgo1": "Demacia",
+        "Rasgo2": "Slayer",
+        "Rasgo3": "cero",
+        "Costo": 1,
+        "Peso": 1
+    },
+    {
+        "Nombre": "Malzahar",
+        "Rasgo1": "Void",
+        "Rasgo2": "Sorcerer",
+        "Rasgo3": "cero",
+        "Costo": 1,
+        "Peso": 2
+    },
+    {
+        "Nombre": "Maokai",
+        "Rasgo1": "Shadow Isles",
+        "Rasgo2": "Bastion",
+        "Rasgo3": "cero",
+        "Costo": 1,
+        "Peso": 3
+    },
+    {
+        "Nombre": "Orianna",
+        "Rasgo1": "Piltover",
+        "Rasgo2": "Sorcerer",
+        "Rasgo3": "cero",
+        "Costo": 1,
+        "Peso": 1
+    },
+    {
+        "Nombre": "Poppy",
+        "Rasgo1": "Yordle",
+        "Rasgo2": "Demacia",
+        "Rasgo3": "Bastion",
+        "Costo": 1,
+        "Peso": 2
+    },
+    {
+        "Nombre": "Renekton",
+        "Rasgo1": "Shurima",
+        "Rasgo2": "Bruiser",
+        "Rasgo3": "cero",
+        "Costo": 1,
+        "Peso": 2
+    },
+    {
+        "Nombre": "Samira",
+        "Rasgo1": "Noxus",
+        "Rasgo2": "Challenger",
+        "Rasgo3": "cero",
+        "Costo": 1,
+        "Peso": 2
+    },
+    {
+        "Nombre": "Tristana",
+        "Rasgo1": "Yordle",
+        "Rasgo2": "Gunner",
+        "Rasgo3": "cero",
+        "Costo": 1,
+        "Peso": 3
+    },
+    {
+        "Nombre": "Viego",
+        "Rasgo1": "Shadow Isles",
+        "Rasgo2": "Rogue",
+        "Rasgo3": "cero",
+        "Costo": 1,
+        "Peso": 3
+    },
+    {
+        "Nombre": "Ashe",
+        "Rasgo1": "Freljord",
+        "Rasgo2": "Deadeye",
+        "Rasgo3": "cero",
+        "Costo": 2,
+        "Peso": 2
+    },
+    {
+        "Nombre": "Galio",
+        "Rasgo1": "Demacia",
+        "Rasgo2": "Invoker",
+        "Rasgo3": "cero",
+        "Costo": 2,
+        "Peso": 3
+    },
+    {
+        "Nombre": "Jinx",
+        "Rasgo1": "Zaun",
+        "Rasgo2": "Gunner",
+        "Rasgo3": "cero",
+        "Costo": 2,
+        "Peso": 3
+    },
+    {
+        "Nombre": "Kassadin",
+        "Rasgo1": "Void",
+        "Rasgo2": "Bastion",
+        "Rasgo3": "cero",
+        "Costo": 2,
+        "Peso": 3
+    },
+    {
+        "Nombre": "Kled",
+        "Rasgo1": "Noxus",
+        "Rasgo2": "Yordle",
+        "Rasgo3": "Slayer",
+        "Costo": 2,
+        "Peso": 2
+    },
+    {
+        "Nombre": "Sett",
+        "Rasgo1": "Ionia",
+        "Rasgo2": "Juggernaut",
+        "Rasgo3": "cero",
+        "Costo": 2,
+        "Peso": 2
+    },
+    {
+        "Nombre": "Soraka",
+        "Rasgo1": "Targon",
+        "Rasgo2": "Invoker",
+        "Rasgo3": "cero",
+        "Costo": 2,
+        "Peso": 2
+    },
+    {
+        "Nombre": "Swain",
+        "Rasgo1": "Noxus",
+        "Rasgo2": "Strategist",
+        "Rasgo3": "Sorcerer",
+        "Costo": 2,
+        "Peso": 3
+    },
+    {
+        "Nombre": "Taliyah",
+        "Rasgo1": "Shurima",
+        "Rasgo2": "Multicaster",
+        "Rasgo3": "cero",
+        "Costo": 2,
+        "Peso": 1
+    },
+    {
+        "Nombre": "Teemo",
+        "Rasgo1": "Yordle",
+        "Rasgo2": "Strategist",
+        "Rasgo3": "Multicaster",
+        "Costo": 2,
+        "Peso": 2
+    },
+    {
+        "Nombre": "Vi",
+        "Rasgo1": "Piltover",
+        "Rasgo2": "Bruiser",
+        "Rasgo3": "cero",
+        "Costo": 2,
+        "Peso": 2
+    },
+    {
+        "Nombre": "Warwick",
+        "Rasgo1": "Zaun",
+        "Rasgo2": "Juggernaut",
+        "Rasgo3": "Challenger",
+        "Costo": 2,
+        "Peso": 2
+    },
+    {
+        "Nombre": "Zed",
+        "Rasgo1": "Ionia",
+        "Rasgo2": "Rogue",
+        "Rasgo3": "Slayer",
+        "Costo": 2,
+        "Peso": 3
+    },
+    {
+        "Nombre": "Akshan",
+        "Rasgo1": "Shurima",
+        "Rasgo2": "Deadeye",
+        "Rasgo3": "cero",
+        "Costo": 3,
+        "Peso": 2
+    },
+    {
+        "Nombre": "Darius",
+        "Rasgo1": "Noxus",
+        "Rasgo2": "Juggernaut",
+        "Rasgo3": "cero",
+        "Costo": 3,
+        "Peso": 4
+    },
+    {
+        "Nombre": "Ekko",
+        "Rasgo1": "Zaun",
+        "Rasgo2": "Piltover",
+        "Rasgo3": "Rogue",
+        "Costo": 3,
+        "Peso": 3
+    },
+    {
+        "Nombre": "Garen",
+        "Rasgo1": "Demacia",
+        "Rasgo2": "Juggernaut",
+        "Rasgo3": "cero",
+        "Costo": 3,
+        "Peso": 4
+    },
+    {
+        "Nombre": "Jayce",
+        "Rasgo1": "Piltover",
+        "Rasgo2": "Gunner",
+        "Rasgo3": "cero",
+        "Costo": 3,
+        "Peso": 4
+    },
+    {
+        "Nombre": "Kalista",
+        "Rasgo1": "Shadow Isles",
+        "Rasgo2": "Challenger",
+        "Rasgo3": "cero",
+        "Costo": 3,
+        "Peso": 3
+    },
+    {
+        "Nombre": "Karma",
+        "Rasgo1": "Ionia",
+        "Rasgo2": "Invoker",
+        "Rasgo3": "cero",
+        "Costo": 3,
+        "Peso": 4
+    },
+    {
+        "Nombre": "Katarina",
+        "Rasgo1": "Noxus",
+        "Rasgo2": "Rogue",
+        "Rasgo3": "cero",
+        "Costo": 3,
+        "Peso": 4
+    },
+    {
+        "Nombre": "Lissandra",
+        "Rasgo1": "Freljord",
+        "Rasgo2": "Invoker",
+        "Rasgo3": "cero",
+        "Costo": 3,
+        "Peso": 3
+    },
+    {
+        "Nombre": "RekSai",
+        "Rasgo1": "Void",
+        "Rasgo2": "Bruiser",
+        "Rasgo3": "cero",
+        "Costo": 3,
+        "Peso": 3
+    },
+    {
+        "Nombre": "Sona",
+        "Rasgo1": "Demacia",
+        "Rasgo2": "Multicaster",
+        "Rasgo3": "cero",
+        "Costo": 3,
+        "Peso": 3
+    },
+    {
+        "Nombre": "Velkoz",
+        "Rasgo1": "Void",
+        "Rasgo2": "Multicaster",
+        "Rasgo3": "Sorcerer",
+        "Costo": 3,
+        "Peso": 2
+    },
+    {
+        "Nombre": "Aphelios",
+        "Rasgo1": "Targon",
+        "Rasgo2": "Deadeye",
+        "Rasgo3": "cero",
+        "Costo": 4,
+        "Peso": 4
+    },
+    {
+        "Nombre": "Azir",
+        "Rasgo1": "Shurima",
+        "Rasgo2": "Strategist",
+        "Rasgo3": "cero",
+        "Costo": 4,
+        "Peso": 4
+    },
+    {
+        "Nombre": "Gwen",
+        "Rasgo1": "Shadow Isles",
+        "Rasgo2": "Slayer",
+        "Rasgo3": "cero",
+        "Costo": 4,
+        "Peso": 3
+    },
+    {
+        "Nombre": "Jarvan",
+        "Rasgo1": "Demacia",
+        "Rasgo2": "Strategist",
+        "Rasgo3": "cero",
+        "Costo": 4,
+        "Peso": 4
+    },
+    {
+        "Nombre": "Kaisa",
+        "Rasgo1": "Void",
+        "Rasgo2": "Challenger",
+        "Rasgo3": "cero",
+        "Costo": 4,
+        "Peso": 4
+    },
+    {
+        "Nombre": "Lux",
+        "Rasgo1": "Demacia",
+        "Rasgo2": "Sorcerer",
+        "Rasgo3": "cero",
+        "Costo": 4,
+        "Peso": 3
+    },
+    {
+        "Nombre": "Nasus",
+        "Rasgo1": "Shurima",
+        "Rasgo2": "Juggernaut",
+        "Rasgo3": "cero",
+        "Costo": 4,
+        "Peso": 3
+    },
+    {
+        "Nombre": "Urgot",
+        "Rasgo1": "Zaun",
+        "Rasgo2": "Deadeye",
+        "Rasgo3": "cero",
+        "Costo": 4,
+        "Peso": 4
+    },
+    {
+        "Nombre": "Yasuo",
+        "Rasgo1": "Ionia",
+        "Rasgo2": "Challenger",
+        "Rasgo3": "cero",
+        "Costo": 4,
+        "Peso": 4
+    },
+    {
+        "Nombre": "Ahri",
+        "Rasgo1": "Ionia",
+        "Rasgo2": "Sorcerer",
+        "Rasgo3": "cero",
+        "Costo": 4,
+        "Peso": 4
+    },
+    {
+        "Nombre": "Belveth",
+        "Rasgo1": "Void",
+        "Rasgo2": "Empress",
+        "Rasgo3": "cero",
+        "Costo": 5,
+        "Peso": 4
     },
     {
         "Nombre": "Sion",
         "Rasgo1": "Noxus",
         "Rasgo2": "Bruiser",
-        "Rasgo3": "cero"
+        "Rasgo3": "cero",
+        "Costo": 5,
+        "Peso": 4
     }
 ]

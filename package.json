@@ -4,7 +4,7 @@
   "description": "Composiciones TFT",
   "main": "src/index.ts",
   "scripts": {
-    "start": "ts-node src/index.ts"
+    "start": "ts-node src/simulatedAleanning.ts"
   },
   "author": "Blesy Angulo",
   "license": "ISC",
