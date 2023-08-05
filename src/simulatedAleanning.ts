@@ -1,8 +1,8 @@
-import { Heroes, Rasgos } from './Heroes.interface';
+import { Heroes } from './Heroes.interface';
 
-function simulatedAnnealing(objects: Heroes[], maxLen: number, comparator, currentSolution = [], fixed: number) {
+function simulatedAnnealing(objects: Heroes[], maxLen: number, comparator, fixed: number, currentSolution = [], weight = 200) {
     const initialTemperature = 1000;
-    const MAXMULTIPLIER = Object.keys(lista).length - 1;
+    const MAXMULTIPLIER = Object.keys(LISTA).length - 1;
     const coolingRate = 0.995;
     let temperature = initialTemperature;
     const CHAMPSPASSED = currentSolution.length
@@ -13,7 +13,7 @@ function simulatedAnnealing(objects: Heroes[], maxLen: number, comparator, curre
     }
 
     let bestSolution = [...currentSolution];
-    let bestScore = objectiveFunction(bestSolution, comparator);
+    let bestScore = objectiveFunction(bestSolution, comparator, weight);
     console.log(bestScore);
     
     while (temperature > 1) {
@@ -21,8 +21,8 @@ function simulatedAnnealing(objects: Heroes[], maxLen: number, comparator, curre
         let neighborSolution;
         neighborSolution = generateNeighbor(currentSolution, objects, fixed, MAXMULTIPLIER);
 
-        let currentScore = objectiveFunction(currentSolution, comparator);
-        let neighborScore = objectiveFunction(neighborSolution, comparator);
+        let currentScore = objectiveFunction(currentSolution, comparator, weight);
+        let neighborScore = objectiveFunction(neighborSolution, comparator, weight);
 
         // Si el vecino es mejor o se acepta según el criterio de Metropolis
         if (neighborScore > currentScore) {// || Math.random() < Math.exp((currentScore - neighborScore) / temperature)) {
@@ -43,14 +43,16 @@ function simulatedAnnealing(objects: Heroes[], maxLen: number, comparator, curre
     return bestSolution;
 }
 
-function objectiveFunction(solution, comparator) {
+function objectiveFunction(solution, comparator, weight: number) {
     // Convertir valores de las propiedades a números y contar su frecuencia
     let frequency = {};
+    let peso = 0;
     solution.forEach(obj => {
         ['Rasgo1', 'Rasgo2', 'Rasgo3'].forEach(rasgo => {
             let value = obj[rasgo];
             frequency[value] = (frequency[value] || 0) + 1;
         });
+        peso += obj.Peso
     });
     delete frequency['cero']
 
@@ -71,7 +73,7 @@ function objectiveFunction(solution, comparator) {
         //     totalDifference += Math.min(...comparator[key]);
         // }
     }
-
+    totalDifference *= weight ? peso/weight+1 : 1
     return totalDifference;  // Queremos minimizar esta diferencia
 }
 
@@ -119,7 +121,7 @@ function generateRandomNumber(MAXMULTIPLIER: number, arr: Heroes[], objects) {
 
 
 // Ejemplo de uso:
-let lista: Heroes[] = {...require('./datos/lista.json')};
+const LISTA: Heroes[] = {...require('./datos/lista.json')};
 const RASGOS = {...require('./datos/rasgosAleanning.json')};
 
 let comparator = {
@@ -129,12 +131,17 @@ let comparator = {
     // ... y así sucesivamente para otros valores
 };
 
+// Valores parametrizados
+let size = 10
 let campeones = [
-    lista[1], lista[2]
+    LISTA[1], LISTA[2]
 ]
+let weight = 0
+// Fin de valores parametrizados
+
 let fijos = 2
 //let comparator = 100;  // Tu valor comparador para la propiedad 1
-let result = simulatedAnnealing(lista, 13, comparator, campeones, fijos);
+let result = simulatedAnnealing(LISTA, size, comparator, fijos, campeones, weight);
 
 let frequency = {}
 let nombres = ''
