@@ -5,7 +5,8 @@
         "Rasgo2": "Gunner",
         "Rasgo3": "Redeemer",
         "Costo": 5,
-        "Peso": 4
+        "Peso": 4,
+        "index": 0
     },
     {
         "Nombre": "Shen",
@@ -13,7 +14,8 @@
         "Rasgo2": "Bastion",
         "Rasgo3": "Invoker",
         "Costo": 4,
-        "Peso": 5
+        "Peso": 5,
+        "index": 1
     },
     {
         "Nombre": "Taric",
@@ -21,7 +23,8 @@
         "Rasgo2": "Bastion",
         "Rasgo3": "Sorcerer",
         "Costo": 3,
-        "Peso": 4
+        "Peso": 4,
+        "index": 2
     },
     {
         "Nombre": "Ryze",
@@ -29,7 +32,8 @@
         "Rasgo2": "Invoker",
         "Rasgo3": "cero",
         "Costo": 5,
-        "Peso": 4
+        "Peso": 4,
+        "index": 3
     },
     {
         "Nombre": "Aatrox",
@@ -37,7 +41,8 @@
         "Rasgo2": "Juggernaut",
         "Rasgo3": "Slayer",
         "Costo": 5,
-        "Peso": 4
+        "Peso": 4,
+        "index": 4
     },
     {
         "Nombre": "Heimerdinger",
@@ -45,7 +50,8 @@
         "Rasgo2": "Yordle",
         "Rasgo3": "Technogenius",
         "Costo": 5,
-        "Peso": 5
+        "Peso": 5,
+        "index": 5
     },
     {
         "Nombre": "Ksante",
@@ -53,7 +59,8 @@
         "Rasgo2": "Bastion",
         "Rasgo3": "cero",
         "Costo": 5,
-        "Peso": 5
+        "Peso": 5,
+        "index": 6
     },
     {
         "Nombre": "Sejuani",
@@ -61,7 +68,8 @@
         "Rasgo2": "Bruiser",
         "Rasgo3": "cero",
         "Costo": 4,
-        "Peso": 5
+        "Peso": 5,
+        "index": 7
     },
     {
         "Nombre": "Zeri",
@@ -69,7 +77,8 @@
         "Rasgo2": "Gunner",
         "Rasgo3": "cero",
         "Costo": 4,
-        "Peso": 5
+        "Peso": 5,
+        "index": 8
     },
     {
         "Nombre": "Cassiopeia",
@@ -77,7 +86,8 @@
         "Rasgo2": "Shurima",
         "Rasgo3": "Invoker",
         "Costo": 1,
-        "Peso": 2
+        "Peso": 2,
+        "index": 9
     },
     {
         "Nombre": "Chogath",
@@ -85,7 +95,8 @@
         "Rasgo2": "Bruiser",
         "Rasgo3": "cero",
         "Costo": 1,
-        "Peso": 3
+        "Peso": 3,
+        "index": 10
     },
     {
         "Nombre": "Irelia",
@@ -93,7 +104,8 @@
         "Rasgo2": "Challenger",
         "Rasgo3": "cero",
         "Costo": 1,
-        "Peso": 2
+        "Peso": 2,
+        "index": 11
     },
     {
         "Nombre": "Jhin",
@@ -101,7 +113,8 @@
         "Rasgo2": "Deadeye",
         "Rasgo3": "cero",
         "Costo": 1,
-        "Peso": 2
+        "Peso": 2,
+        "index": 12
     },
     {
         "Nombre": "Kayle",
@@ -109,7 +122,8 @@
         "Rasgo2": "Slayer",
         "Rasgo3": "cero",
         "Costo": 1,
-        "Peso": 1
+        "Peso": 1,
+        "index": 13
     },
     {
         "Nombre": "Malzahar",
@@ -117,7 +131,8 @@
         "Rasgo2": "Sorcerer",
         "Rasgo3": "cero",
         "Costo": 1,
-        "Peso": 2
+        "Peso": 2,
+        "index": 14
     },
     {
         "Nombre": "Maokai",
@@ -125,7 +140,8 @@
         "Rasgo2": "Bastion",
         "Rasgo3": "cero",
         "Costo": 1,
-        "Peso": 3
+        "Peso": 3,
+        "index": 15
     },
     {
         "Nombre": "Orianna",
@@ -133,7 +149,8 @@
         "Rasgo2": "Sorcerer",
         "Rasgo3": "cero",
         "Costo": 1,
-        "Peso": 1
+        "Peso": 1,
+        "index": 16
     },
     {
         "Nombre": "Poppy",
@@ -141,7 +158,8 @@
         "Rasgo2": "Demacia",
         "Rasgo3": "Bastion",
         "Costo": 1,
-        "Peso": 2
+        "Peso": 2,
+        "index": 17
     },
     {
         "Nombre": "Renekton",
@@ -149,7 +167,8 @@
         "Rasgo2": "Bruiser",
         "Rasgo3": "cero",
         "Costo": 1,
-        "Peso": 2
+        "Peso": 2,
+        "index": 18
     },
     {
         "Nombre": "Samira",
@@ -157,7 +176,8 @@
         "Rasgo2": "Challenger",
         "Rasgo3": "cero",
         "Costo": 1,
-        "Peso": 2
+        "Peso": 2,
+        "index": 19
     },
     {
         "Nombre": "Tristana",
@@ -165,7 +185,8 @@
         "Rasgo2": "Gunner",
         "Rasgo3": "cero",
         "Costo": 1,
-        "Peso": 3
+        "Peso": 3,
+        "index": 20
     },
     {
         "Nombre": "Viego",
@@ -173,7 +194,8 @@
         "Rasgo2": "Rogue",
         "Rasgo3": "cero",
         "Costo": 1,
-        "Peso": 3
+        "Peso": 3,
+        "index": 21
     },
     {
         "Nombre": "Ashe",
@@ -181,7 +203,8 @@
         "Rasgo2": "Deadeye",
         "Rasgo3": "cero",
         "Costo": 2,
-        "Peso": 2
+        "Peso": 2,
+        "index": 22
     },
     {
         "Nombre": "Galio",
@@ -189,7 +212,8 @@
         "Rasgo2": "Invoker",
         "Rasgo3": "cero",
         "Costo": 2,
-        "Peso": 3
+        "Peso": 3,
+        "index": 23
     },
     {
         "Nombre": "Jinx",
@@ -197,7 +221,8 @@
         "Rasgo2": "Gunner",
         "Rasgo3": "cero",
         "Costo": 2,
-        "Peso": 3
+        "Peso": 3,
+        "index": 24
     },
     {
         "Nombre": "Kassadin",
@@ -205,7 +230,8 @@
         "Rasgo2": "Bastion",
         "Rasgo3": "cero",
         "Costo": 2,
-        "Peso": 3
+        "Peso": 3,
+        "index": 25
     },
     {
         "Nombre": "Kled",
@@ -213,7 +239,8 @@
         "Rasgo2": "Yordle",
         "Rasgo3": "Slayer",
         "Costo": 2,
-        "Peso": 2
+        "Peso": 2,
+        "index": 26
     },
     {
         "Nombre": "Sett",
@@ -221,7 +248,8 @@
         "Rasgo2": "Juggernaut",
         "Rasgo3": "cero",
         "Costo": 2,
-        "Peso": 2
+        "Peso": 2,
+        "index": 27
     },
     {
         "Nombre": "Soraka",
@@ -229,7 +257,8 @@
         "Rasgo2": "Invoker",
         "Rasgo3": "cero",
         "Costo": 2,
-        "Peso": 2
+        "Peso": 2,
+        "index": 28
     },
     {
         "Nombre": "Swain",
@@ -237,7 +266,8 @@
         "Rasgo2": "Strategist",
         "Rasgo3": "Sorcerer",
         "Costo": 2,
-        "Peso": 3
+        "Peso": 3,
+        "index": 29
     },
     {
         "Nombre": "Taliyah",
@@ -245,7 +275,8 @@
         "Rasgo2": "Multicaster",
         "Rasgo3": "cero",
         "Costo": 2,
-        "Peso": 1
+        "Peso": 1,
+        "index": 30
     },
     {
         "Nombre": "Teemo",
@@ -253,7 +284,8 @@
         "Rasgo2": "Strategist",
         "Rasgo3": "Multicaster",
         "Costo": 2,
-        "Peso": 2
+        "Peso": 2,
+        "index": 31
     },
     {
         "Nombre": "Vi",
@@ -261,7 +293,8 @@
         "Rasgo2": "Bruiser",
         "Rasgo3": "cero",
         "Costo": 2,
-        "Peso": 2
+        "Peso": 2,
+        "index": 32
     },
     {
         "Nombre": "Warwick",
@@ -269,7 +302,8 @@
         "Rasgo2": "Juggernaut",
         "Rasgo3": "Challenger",
         "Costo": 2,
-        "Peso": 2
+        "Peso": 2,
+        "index": 33
     },
     {
         "Nombre": "Zed",
@@ -277,7 +311,8 @@
         "Rasgo2": "Rogue",
         "Rasgo3": "Slayer",
         "Costo": 2,
-        "Peso": 3
+        "Peso": 3,
+        "index": 34
     },
     {
         "Nombre": "Akshan",
@@ -285,7 +320,8 @@
         "Rasgo2": "Deadeye",
         "Rasgo3": "cero",
         "Costo": 3,
-        "Peso": 2
+        "Peso": 2,
+        "index": 35
     },
     {
         "Nombre": "Darius",
@@ -293,7 +329,8 @@
         "Rasgo2": "Juggernaut",
         "Rasgo3": "cero",
         "Costo": 3,
-        "Peso": 4
+        "Peso": 4,
+        "index": 36
     },
     {
         "Nombre": "Ekko",
@@ -301,7 +338,8 @@
         "Rasgo2": "Piltover",
         "Rasgo3": "Rogue",
         "Costo": 3,
-        "Peso": 3
+        "Peso": 3,
+        "index": 37
     },
     {
         "Nombre": "Garen",
@@ -309,7 +347,8 @@
         "Rasgo2": "Juggernaut",
         "Rasgo3": "cero",
         "Costo": 3,
-        "Peso": 4
+        "Peso": 4,
+        "index": 38
     },
     {
         "Nombre": "Jayce",
@@ -317,7 +356,8 @@
         "Rasgo2": "Gunner",
         "Rasgo3": "cero",
         "Costo": 3,
-        "Peso": 4
+        "Peso": 4,
+        "index": 39
     },
     {
         "Nombre": "Kalista",
@@ -325,7 +365,8 @@
         "Rasgo2": "Challenger",
         "Rasgo3": "cero",
         "Costo": 3,
-        "Peso": 3
+        "Peso": 3,
+        "index": 40
     },
     {
         "Nombre": "Karma",
@@ -333,7 +374,8 @@
         "Rasgo2": "Invoker",
         "Rasgo3": "cero",
         "Costo": 3,
-        "Peso": 4
+        "Peso": 4,
+        "index": 41
     },
     {
         "Nombre": "Katarina",
@@ -341,7 +383,8 @@
         "Rasgo2": "Rogue",
         "Rasgo3": "cero",
         "Costo": 3,
-        "Peso": 4
+        "Peso": 4,
+        "index": 42
     },
     {
         "Nombre": "Lissandra",
@@ -349,7 +392,8 @@
         "Rasgo2": "Invoker",
         "Rasgo3": "cero",
         "Costo": 3,
-        "Peso": 3
+        "Peso": 3,
+        "index": 43
     },
     {
         "Nombre": "RekSai",
@@ -357,7 +401,8 @@
         "Rasgo2": "Bruiser",
         "Rasgo3": "cero",
         "Costo": 3,
-        "Peso": 3
+        "Peso": 3,
+        "index": 44
     },
     {
         "Nombre": "Sona",
@@ -365,7 +410,8 @@
         "Rasgo2": "Multicaster",
         "Rasgo3": "cero",
         "Costo": 3,
-        "Peso": 3
+        "Peso": 3,
+        "index": 45
     },
     {
         "Nombre": "Velkoz",
@@ -373,7 +419,8 @@
         "Rasgo2": "Multicaster",
         "Rasgo3": "Sorcerer",
         "Costo": 3,
-        "Peso": 2
+        "Peso": 2,
+        "index": 46
     },
     {
         "Nombre": "Aphelios",
@@ -381,7 +428,8 @@
         "Rasgo2": "Deadeye",
         "Rasgo3": "cero",
         "Costo": 4,
-        "Peso": 4
+        "Peso": 4,
+        "index": 47
     },
     {
         "Nombre": "Azir",
@@ -389,7 +437,8 @@
         "Rasgo2": "Strategist",
         "Rasgo3": "cero",
         "Costo": 4,
-        "Peso": 4
+        "Peso": 4,
+        "index": 48
     },
     {
         "Nombre": "Gwen",
@@ -397,7 +446,8 @@
         "Rasgo2": "Slayer",
         "Rasgo3": "cero",
         "Costo": 4,
-        "Peso": 3
+        "Peso": 3,
+        "index": 49
     },
     {
         "Nombre": "Jarvan",
@@ -405,7 +455,8 @@
         "Rasgo2": "Strategist",
         "Rasgo3": "cero",
         "Costo": 4,
-        "Peso": 4
+        "Peso": 4,
+        "index": 50
     },
     {
         "Nombre": "Kaisa",
@@ -413,7 +464,8 @@
         "Rasgo2": "Challenger",
         "Rasgo3": "cero",
         "Costo": 4,
-        "Peso": 4
+        "Peso": 4,
+        "index": 51
     },
     {
         "Nombre": "Lux",
@@ -421,7 +473,8 @@
         "Rasgo2": "Sorcerer",
         "Rasgo3": "cero",
         "Costo": 4,
-        "Peso": 3
+        "Peso": 3,
+        "index": 52
     },
     {
         "Nombre": "Nasus",
@@ -429,7 +482,8 @@
         "Rasgo2": "Juggernaut",
         "Rasgo3": "cero",
         "Costo": 4,
-        "Peso": 3
+        "Peso": 3,
+        "index": 53
     },
     {
         "Nombre": "Urgot",
@@ -437,7 +491,8 @@
         "Rasgo2": "Deadeye",
         "Rasgo3": "cero",
         "Costo": 4,
-        "Peso": 4
+        "Peso": 4,
+        "index": 54
     },
     {
         "Nombre": "Yasuo",
@@ -445,7 +500,8 @@
         "Rasgo2": "Challenger",
         "Rasgo3": "cero",
         "Costo": 4,
-        "Peso": 4
+        "Peso": 4,
+        "index": 55
     },
     {
         "Nombre": "Ahri",
@@ -453,7 +509,8 @@
         "Rasgo2": "Sorcerer",
         "Rasgo3": "cero",
         "Costo": 4,
-        "Peso": 4
+        "Peso": 4,
+        "index": 56
     },
     {
         "Nombre": "Belveth",
@@ -461,7 +518,8 @@
         "Rasgo2": "Empress",
         "Rasgo3": "cero",
         "Costo": 5,
-        "Peso": 4
+        "Peso": 4,
+        "index": 57
     },
     {
         "Nombre": "Sion",
@@ -469,6 +527,7 @@
         "Rasgo2": "Bruiser",
         "Rasgo3": "cero",
         "Costo": 5,
-        "Peso": 4
+        "Peso": 4,
+        "index": 58
     }
 ]

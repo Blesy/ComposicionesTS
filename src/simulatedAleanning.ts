@@ -1,11 +1,11 @@
 import { Heroes } from './Heroes.interface';
 
-function simulatedAnnealing(objects: Heroes[], maxLen: number, comparator, fixed: number, currentSolution = [], weight = 200) {
+function simulatedAnnealing(objects: Heroes[], maxLen: number, comparator, fixed: number, currentSolution = [], weight = 200, espatulas = []) {
     const initialTemperature = 1000;
     const MAXMULTIPLIER = Object.keys(LISTA).length - 1;
     const coolingRate = 0.995;
-    let temperature = initialTemperature;
     const CHAMPSPASSED = currentSolution.length
+    let temperature = initialTemperature;
     // Genera una solución inicial aleatoria
     for (let i = 0; i < maxLen - CHAMPSPASSED; i++) {
         let randomNumber = generateRandomNumber(MAXMULTIPLIER, currentSolution, objects)
@@ -13,7 +13,7 @@ function simulatedAnnealing(objects: Heroes[], maxLen: number, comparator, fixed
     }
 
     let bestSolution = [...currentSolution];
-    let bestScore = objectiveFunction(bestSolution, comparator, weight);
+    let bestScore = objectiveFunction(bestSolution, comparator, weight, espatulas);
     console.log(bestScore);
     
     while (temperature > 1) {
@@ -21,8 +21,8 @@ function simulatedAnnealing(objects: Heroes[], maxLen: number, comparator, fixed
         let neighborSolution;
         neighborSolution = generateNeighbor(currentSolution, objects, fixed, MAXMULTIPLIER);
 
-        let currentScore = objectiveFunction(currentSolution, comparator, weight);
-        let neighborScore = objectiveFunction(neighborSolution, comparator, weight);
+        let currentScore = objectiveFunction(currentSolution, comparator, weight, espatulas);
+        let neighborScore = objectiveFunction(neighborSolution, comparator, weight, espatulas);
 
         // Si el vecino es mejor o se acepta según el criterio de Metropolis
         if (neighborScore > currentScore) {// || Math.random() < Math.exp((currentScore - neighborScore) / temperature)) {
@@ -43,7 +43,7 @@ function simulatedAnnealing(objects: Heroes[], maxLen: number, comparator, fixed
     return bestSolution;
 }
 
-function objectiveFunction(solution, comparator, weight: number) {
+function objectiveFunction(solution, comparator, weight: number, espatulas: string[]) {
     // Convertir valores de las propiedades a números y contar su frecuencia
     let frequency = {};
     let peso = 0;
@@ -54,12 +54,14 @@ function objectiveFunction(solution, comparator, weight: number) {
         });
         peso += obj.Peso
     });
+    espatulas.forEach(obj => {
+        frequency[obj] = (frequency[obj] || 0) + 1;
+    })
     delete frequency['cero']
 
     // Calcular la diferencia con respecto a los objetivos
     let totalDifference = 0;
     for (let key in frequency) {
-        //if (frequency[key]) {
         let mappedComparator = [...comparator[key].map(target => {
             let filter = frequency[key] - target
             return filter >= 0 ? filter : filter * -1 + 1.1
@@ -67,32 +69,13 @@ function objectiveFunction(solution, comparator, weight: number) {
         let minDifference = Math.min(...mappedComparator);
         let index = mappedComparator.indexOf(minDifference)
         totalDifference += frequency[key] >= comparator[key].slice(-1)[0] ? comparator[key][index] : 0
-        //}
-        //  else {
-        //     Si la llave no existe en la solución, la diferencia es el objetivo mínimo
-        //     totalDifference += Math.min(...comparator[key]);
-        // }
     }
     totalDifference *= weight ? peso/weight+1 : 1
-    return totalDifference;  // Queremos minimizar esta diferencia
+    return totalDifference;  // Queremos maximizar esta diferencia
 }
 
 function generateNeighbor(solution, objects, fixed, MAXMULTIPLIER: number) {
     let neighbor = [...solution];
-    //let randomAction = Math.random();
-    // if (randomAction < 0.33 && neighbor.length < maxLen) {
-    //     // Añadir un objeto aleatorio
-    //     let randomNumber = generateRandomNumber(MAXMULTIPLIER, currentNumbers)
-    //     neighborNumbers.push(randomNumber)
-    //     neighbor.push(objects[randomNumber]);
-    //     if (hasDuplicates(neighbor)) console.log(1) //testing
-    // } else if (randomAction < 0.66 && neighbor.length > 0) {
-    //     // Eliminar un objeto aleatorio
-    //     let numeroRandom = Math.floor(Math.random() * neighbor.length)
-    //     neighborNumbers.splice(numeroRandom)
-    //     neighbor.splice(numeroRandom, 1);
-    //     if (hasDuplicates(neighbor)) console.log(2) //testing
-    // } else {
 
     // Reemplazar un objeto aleatorio
     let random1 = Math.floor(Math.random() * (neighbor.length - fixed)) + fixed
@@ -131,17 +114,18 @@ let comparator = {
     // ... y así sucesivamente para otros valores
 };
 
-// Valores parametrizados
+// Valores parametrizados **********************************************************
 let size = 10
 let campeones = [
-    LISTA[1], LISTA[2]
+    LISTA[6], LISTA[9], LISTA[18], LISTA[30], LISTA[35], LISTA[48], LISTA[53]
 ]
-let weight = 0
-// Fin de valores parametrizados
+let weight = 100 //valores alrededor de 100 serian optimos
+let espatulas = ['Shurima', 'Shurima']
+let fijos = 7
+// Fin de valores parametrizados ***************************************************
 
-let fijos = 2
 //let comparator = 100;  // Tu valor comparador para la propiedad 1
-let result = simulatedAnnealing(LISTA, size, comparator, fijos, campeones, weight);
+let result = simulatedAnnealing(LISTA, size, comparator, fijos, campeones, weight, espatulas);
 
 let frequency = {}
 let nombres = ''
@@ -152,4 +136,8 @@ result.forEach(obj => {
         frequency[value] = (frequency[value] || 0) + 1;
     });
 })
+espatulas.forEach(obj => {
+    frequency[obj] = (frequency[obj] || 0) + 1;
+});
+delete frequency['cero']
 console.log(nombres, frequency);
